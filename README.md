@@ -1,6 +1,6 @@
 Salut à tous 👋
 
-Je suis Tomsdev, fraichement diplomé en developpeur web Full Stack React/Symfony (expertise en Symfony).
+Tomsdev, c'est être passionné d'informatique et de football. Je suis fraichement diplomé en web Full Stack React/Symfony (expertise en Symfony).
 
 🔭 Je travaille actuellement sur un projet personnel utilisant Symfony.
 🌱 J'apprends actuellement React. J'aime beaucoup React Native pour les mobiles.
